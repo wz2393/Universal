@@ -5,9 +5,9 @@ This project is based on the paper [Universal Style Transfer via Feature Transfo
 ![image](network.png)
 
 ## Samples
-<div align=center><img width="244" height="244" src="https://github.com/zhangcliff/WCT-based-style-transfer/blob/master/content/im4.jpg" >
-<img width = "244" height="244" src ="https://github.com/zhangcliff/WCT-based-style-transfer/blob/master/style/s5.jpg">
-<img width = "244" height="244" src="https://github.com/zhangcliff/WCT-based-style-transfer/blob/master/result/result_1.jpg">
+<div align=center><img width="244" height="244" src="data/content/028.jpg" >
+<img width = "244" height="244" src ="data/style/088.jpg">
+<img width = "244" height="244" src="data/output/028_088_trensferred.jpg">
 <br>
 <img width="244" height="244" src="https://github.com/zhangcliff/WCT-based-style-transfer/blob/master/content/im2.jpg" >
 <img width = "244" height="244" src ="https://github.com/zhangcliff/WCT-based-style-transfer/blob/master/style/s2.jpg">
@@ -22,3 +22,4 @@ This project is based on the paper [Universal Style Transfer via Feature Transfo
 <img width = "244" height="244" src="https://github.com/zhangcliff/WCT-based-style-transfer/blob/master/result/result_2.jpg">
  <br> 
  <div align=left>  
+ ## 
