@@ -13,9 +13,9 @@ This project is based on the paper [Universal Style Transfer via Feature Transfo
 <img width = "244" height="244" src ="data/style/09.jpg">
 <img width = "244" height="244" src="data/output/05_09_trensferred.jpg">
 <br>
-<img width="244" height="244" src="data/content/028.jpg" >
-<img width = "244" height="244" src ="data/style/088.jpg">
-<img width = "244" height="244" src="data/output/028_088_trensferred.jpg">
+<img width="244" height="244" src="data/content/im3.jpg" >
+<img width = "244" height="244" src ="data/style/10.jpg">
+<img width = "244" height="244" src="data/output/im3_10_trensferred.jpg">
  <br> 
  <div align=left>  
 
